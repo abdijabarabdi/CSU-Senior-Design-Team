@@ -1,0 +1,3 @@
+# CSU-Senior-Design-Team
+We will be using this repository to commit and share codes assignmentst.
+I will be documenting instruction here as well stay tunned....
